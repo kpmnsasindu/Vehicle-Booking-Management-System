@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #0477BF;
+}
+
+.landingNav{
+    background: #021E73;
+}
+
+a{
+    color : #B0D9CD;
+}
+
+.height{
+    min-height: 80vh;
+}
+
+.font-color-one{
+    color : #010440;
+}
+
+.font-color-two{
+    color : #010326;
+}
+
+.font-color-three{
+    color : #021E73;
+}
+.font-color-four{
+    color : #0477BF;
+}
+.font-color-five{
+    color : #B0D9CD;
+}
+
+.bg-color-one{
+    background: #010440;
+}
+
+.bg-color-two{
+    background: #010326;
+}
+
+.bg-color-three{
+    background: #021E73;
+}
+
+.bg-color-four{
+    background:#0477BF;
+}
+.bg-color-five{
+    background: #B0D9CD;
+}
+
+.signup{
+    width: 450px;
+    height: 350px;;
+}
+
+.default-border{
+    border: 2px solid #021E73;
+}
+
+.btn:hover{
+    background: #0477BF;
+}
